@@ -1,7 +1,7 @@
 
 import java.util.ArrayList;
 public class Prova {
-		//Atributos
+	//Atributos
 		private String nomeParticipante;
 		private ArrayList <String> respostas = new ArrayList <String> ();
 		private char[][] gabarito = {
