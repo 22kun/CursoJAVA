@@ -24,7 +24,7 @@ public class ProvaMain
 		
 		prova.setPontuacao();
 		
-		prova.gabarito();
+	        prova.gabarito();
 		
 	}
 }
