@@ -13,18 +13,18 @@ public class ProvaMain
 	public static void main (String[] args)
 	{
 		
-		System.out.println("========================================================");
-		System.out.println("#############"    +    "PROVA"      +     "#############");
-		System.out.println("========================================================");
+		System.out.println("============================================================");
+		System.out.println("#################### | " + "PROVA" + " | #################");
+		System.out.println("============================================================");
 		
-		System.out.print("Insira o seu nome:");
+		System.out.print("Insira o seu nome: ");
 		prova.setNomeParticipante(input.nextLine());
 		
 		prova.perguntas();
 		
 		prova.setPontuacao();
 		
-	        prova.gabarito();
+		prova.gabarito();
 		
 	}
 }
