@@ -30,7 +30,7 @@ public class Prova {
 							
 							System.out.println("\n Alternativas: ");
 							System.out.println("----------------------------------------------------------");
-							System.out.println
+						        System.out.println
 									(
 									"a)  Classe.\n"
 									+ "b)  Função.\n"
