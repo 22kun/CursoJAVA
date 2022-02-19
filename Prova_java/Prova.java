@@ -94,7 +94,7 @@ public class Prova
 						break;
 						
 					case 3:
-						System.out.println("04. Dentre os conceitos abaixo, qual o melhor que se encaixa para a definição de 'Algoritmo'?:");
+					        System.out.println("04. Dentre os conceitos abaixo, qual o melhor que se encaixa para a definição de 'Algoritmo'?:");
 						
 						System.out.println
 						(
